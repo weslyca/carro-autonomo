@@ -11,6 +11,6 @@ Possibilitar a navegação autônoma de um Crawler 4WS 4x4 Compact Security Robo
                                                                                         
 ## Navegação entre cones para fórmula SAE
 ### Objetivo: 
-Detecção de um trajeto demarcado por cones usando visão computacional para a Fórmula SAE e navegação autônoma do veículo pelo trajeto. A ideia é desenvolver um 1º protótipo da parte de IA e da parte de automação e controle, além de gerarmos os datasets para que possamos ter uma versão do carro andando entre cones até Maio.
+Detecção de um trajeto demarcado por cones usando visão computacional para a Fórmula SAE e navegação autônoma do veículo pelo trajeto. A ideia é desenvolver um 1º protótipo da parte de IA e da parte de automação e controle, além de gerarmos os datasets para que possamos ter uma versão do carro andando entre cones até Maio.  
 ![Imgur](https://i.imgur.com/s7KjlU3.jpg)
 ![Imgur](https://i.imgur.com/KUR9tc8.jpg)
