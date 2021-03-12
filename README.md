@@ -4,10 +4,8 @@ Neste repositório temos notebooks e outros arquivos que nos ajudarão em dois p
 ## Navegacão autônoma de um carrinho por diversos tipos de terreno
 ### Objetivo: 
 Possibilitar a nevegacão autônoma de um Crawler 4WS 4x4 Compact Security Robot pela UFSC. O carrinho Crawler deve ser capaz de detectar caminhos por diversos tipos de terreno (asfaltado, pavimentado e não pavimentado).
-
-<a href="url"><img src="https://i.imgur.com/hUEA2Fw.jpg" align="left"></a>
-
-<a href="url"><img src="https://i.imgur.com/7g91DP4.jpg" align="left"></a>
+![Imgur](https://i.imgur.com/hUEA2Fw.jpg)
+![Imgur](https://i.imgur.com/7g91DP4.jpg)
 
                                                                                         
 ## Navegacão entre cones para fórmula SAE
